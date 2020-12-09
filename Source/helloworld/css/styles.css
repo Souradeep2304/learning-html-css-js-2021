@@ -1,0 +1,19 @@
+
+h1 {
+    color: brown;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    background-color: burlywood;
+    font-weight: bolder;
+}
+
+.btn-primary {
+   background-color: rgb(33, 37, 41); 
+   color: #FFF;
+   font-weight: bold;
+   width: 80Px;
+   height: 26Px;
+}
